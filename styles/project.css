@@ -1,0 +1,50 @@
+html {
+    background-image: linear-gradient(to left, white 0%, #facd8a 100%);
+}
+body {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 90%;
+    background-color: white;
+    margin: 15px auto;
+    padding: 15px 1.5em;
+    border: 1px solid green;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+    background-image: url("../images/SH_orange.png");
+    background-position:right;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+}
+a:focus, a:hover {
+    font-style: italic;
+    color: pink;
+    border: 3px yellow;
+    border-style: dotted solid;
+}
+h1 {
+    font-size: 175%;
+    color: purple;
+    text-indent: 30px;
+}
+h2 {
+    font-size: 130%;
+    color: #837465;
+    text-indent: 30px;
+}
+img{
+    float:left;
+    margin-left: 2em;
+}
+.shadow{
+    text-shadow: 2px 2px 2px rgb(128, 0, 0);
+}
+article{
+    clear: left;
+    width: 70%;
+    float: left;
+    column-count: 2;
+    column-rule: 2px dotted green;
+    column-gap: 2em;
+    margin-left: 2em;
+}
