@@ -82,7 +82,7 @@ p.fixed {
     position: fixed;
     background-color: lightgreen;
     bottom: 20px;
-    top: 250px;
+    right: 10px;
     border: 1px solid green;
     padding: 10px 15px;
     box-shadow: 2px 2px 5px gray;
