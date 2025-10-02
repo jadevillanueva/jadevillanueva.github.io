@@ -71,7 +71,7 @@ aside {
 }
 header {
     clear: both;
-    border-top: 2px solid purple;
+    border-bottom: 2px solid purple;
 }
 footer {
     clear: both;
