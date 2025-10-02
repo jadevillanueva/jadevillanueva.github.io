@@ -70,7 +70,8 @@ aside {
     background-color: #ffebc6;
 }
 header {
-    
+    clear: both;
+    border-top: 2px solid purple;
 }
 footer {
     clear: both;
@@ -85,7 +86,7 @@ p.fixed {
     position: fixed;
     background-color: lightgreen;
     bottom: 20px;
-    right: 10px;
+    right: 20px;
     border: 1px solid green;
     padding: 10px 15px;
     box-shadow: 2px 2px 5px gray;
