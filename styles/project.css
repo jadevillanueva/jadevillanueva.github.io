@@ -68,6 +68,7 @@ aside {
     width: 20%;
     float: right;
     background-color: #ffebc6;
+    padding: 15px;
 }
 header {
     clear: both;
