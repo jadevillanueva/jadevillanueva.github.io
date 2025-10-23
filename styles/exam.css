@@ -67,7 +67,7 @@ footer {
   padding: 10px;
 }
 
-::first-letter {
+:first-letter {
   font-size: 2em;
   font-weight: bold;
   float: left;
