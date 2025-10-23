@@ -67,7 +67,7 @@ footer {
   padding: 10px;
 }
 
-.dropcap {
+::first-letter {
   font-size: 2em;
   font-weight: bold;
   float: left;
