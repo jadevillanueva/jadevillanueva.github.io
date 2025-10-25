@@ -99,8 +99,9 @@ p {
 }
 
 /* First letter bold */
-p::first-letter {
+article p::first-letter {
   font-weight: bold;
+  font-size: 3em;
 }
 
 /* ---------------------------- */
