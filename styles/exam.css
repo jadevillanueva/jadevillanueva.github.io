@@ -87,3 +87,7 @@ article{
   column-gap: 2em;
   margin-left: 2em;
 }
+footer p.copyright{
+    text-align: center;
+    font-size: 80%;
+  }
