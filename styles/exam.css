@@ -34,12 +34,12 @@ aside a:hover {
   text-decoration: underline;
 }
 header {
-    clear: both;
-    border-bottom: 2px solid purple;
+  clear: both;
+  border-bottom: 2px solid blue;
 }
 footer {
-    clear: both;
-    border-top: 2px solid purple;
+  clear: both;
+  border-top: 2px solid blue;
 }
 h1, h2 {
   color: #003366;
