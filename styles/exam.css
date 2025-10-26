@@ -26,15 +26,6 @@ nav a {
   text-decoration: none;
   font-weight: bold;
 }
-article {
-  width: 70%;
-  margin: 20px auto;
-  background-color: #ffffffcc;
-  padding: 20px;
-  border: 2px solid #000;
-  z-index: 1;
-  position: relative;
-}
 img {
   float: left;
   width: 150px;
