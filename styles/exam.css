@@ -21,7 +21,6 @@ aside {
   background-color: #cce0ff;
   border: 2px solid #004080;
   padding: 10px;
-  font-variant-numeric: lining-nums;
 }
 header {
   clear: both;
@@ -61,5 +60,5 @@ aside ol {
  list-style-type: upper-roman;
 }
 aside ul{
- list-style-type: square;
+ list-style-type: upper-roman;
 }
