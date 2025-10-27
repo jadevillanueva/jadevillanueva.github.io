@@ -7,6 +7,31 @@ body {
   background-attachment: fixed;
   width: 95%;
 }
+nav {
+  background-color: #0000cc;
+  padding: 10px 0;
+}
+nav ul {
+  list-style: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+nav li {
+  display: inline-block;
+  margin: 0 15px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px 15px;
+}
+nav a:hover,
+nav a.active {
+  background-color: #ffcc00;
+  color: #000;
+}
 img {
   float: left;
   width: 150px;
