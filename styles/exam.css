@@ -50,15 +50,15 @@ article{
   margin-left: 2em;
 }
 footer p.copyright{
-    text-align: center;
-    font-size: 80%;
+  text-align: center;
+  font-size: 80%;
 }
 article{
-    clear: both;
+ clear: both;
 }
 aside ol {
-    list-style-type: upper-roman;
+ list-style-type: upper-roman;
 }
 aside ul{
-    list-style-type: square;
+ list-style-type: square;
 }
