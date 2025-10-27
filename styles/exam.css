@@ -60,5 +60,13 @@ aside ol {
  list-style-type: upper-roman;
 }
 aside ul{
- list-style-type: upper-roman;
+ list-style-type: square;
+  padding-left: 20px;
+}
+aside a {
+  color: #0033cc;
+  text-decoration: none;
+}
+aside a:hover {
+text-decoration: underline;
 }
