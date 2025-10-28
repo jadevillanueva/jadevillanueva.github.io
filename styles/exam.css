@@ -2,7 +2,6 @@ html {
     background-color: #add8e6;
 }
 
-/* Reset and base styles */
 * {
     margin: 0;
     padding: 0;
@@ -24,7 +23,7 @@ body {
     background-size: 28em;
 }
 
-/* Navigation menu styles */
+
 #nav_menu {
     padding-bottom: 4em;
 }
@@ -69,7 +68,7 @@ article h1 {
     margin: 15px auto;
 }
 
-/* Article styles */
+
 article {
     clear: left;
     width: 75%;
@@ -84,21 +83,21 @@ article h2 {
     color: blue;
 }
 
-/* First letter styling - bigger, italic, and bold */
+
 article p::first-letter {
     font-size: 2em;
     font-weight: bold;
     font-style: italic;
 }
 
-/* Image styling for text wrapping */
+
 article img {
     float: left;
     margin-right: 10px;
     margin-bottom: 10px;
 }
 
-/* Aside styles - fixed position */
+
 aside {
     width: 20%;
     float: right;
@@ -125,7 +124,7 @@ aside {
     margin-left: 2em;
 }
 
-/* Footer styles */
+
 footer {
     clear: both;
     border-top: 2px solid blue;
