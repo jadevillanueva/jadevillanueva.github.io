@@ -48,7 +48,7 @@ body {
     border-right: 2px solid white;
 }
 
-#nav_menu ul li a.lastitem {
+#nav_menu ul li a.last {
     border-right: none;
 }
 
