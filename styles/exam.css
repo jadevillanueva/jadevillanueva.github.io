@@ -32,6 +32,7 @@ nav a.active {
   background-color: #ffcc00;
   color: #000;
 }
+#nav_menu ul li a.current { color: yellow; }
 img {
   float: left;
   width: 150px;
