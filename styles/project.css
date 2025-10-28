@@ -73,6 +73,7 @@ aside {
 header {
     clear: both;
     border-bottom: 2px solid purple;
+    float: center;
 }
 footer {
     clear: both;
