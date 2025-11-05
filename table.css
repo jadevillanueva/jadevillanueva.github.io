@@ -36,18 +36,29 @@ border-bottom: 2px solid purple;
 }
 /*-----------------------------------------------------------*/
 table.third {
-border-collapse: collapse;
-border: 2px soild red;
+    width: 100%;
+    margin: 20px 0;
+    background-color: #90EE90;
+    border-collapse: collapse;
+    border: 2px solid #333;
+}
+table.third caption {
+    font-weight: bold;
+    font-size: 1.1em;
+    padding: 10px;
+    background-color: #90EE90;
+    text-align: left;
 }
 table.third th {
-background-color: green;
+    background-color: #90EE90;
+    border: 1px solid #333;
+    padding: 10px;
+    font-weight: bold;
 }
-table.third th, table.third td {
-
+table.third td {
+    border: 1px solid #333;
+    padding: 10px;
 }
-
-
-
 @media only screen and (max-width: 425px) {
 th, td {
 display: block;
