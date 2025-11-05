@@ -39,6 +39,12 @@ table.third {
 border-collapse: collapse;
 border: 2px soild red;
 }
+table.third th {
+background-color: green;
+}
+table.third th, table.third td {
+
+}
 
 
 
