@@ -38,7 +38,7 @@ border-bottom: 2px solid purple;
 table.third {
     width: 100%;
     margin: 20px 0;
-    background-color: #90EE90;
+    background-color: soild greenyellow;
     border-collapse: collapse;
     border: 2px solid #333;
 }
@@ -46,19 +46,10 @@ table.third caption {
     font-weight: bold;
     font-size: 1.1em;
     padding: 10px;
-    background-color: #90EE90;
+    background-color: solid greenyellow;
     text-align: left;
 }
-table.third th {
-    background-color: #90EE90;
-    border: 1px solid #333;
-    padding: 10px;
-    font-weight: bold;
-}
-table.third td {
-    border: 1px solid #333;
-    padding: 10px;
-}
+
 @media only screen and (max-width: 425px) {
 th, td {
 display: block;
