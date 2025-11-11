@@ -35,26 +35,30 @@ table.second thead tr:first-child{
 border-bottom: 2px solid purple;
 }
 /*-----------------------------------------------------------*/
-table.third {
-border-collapse: collapse;
+table.third {    
+    border-collapse: collapse;
+}
+table.third thead {
+    background-color: lightgreen;
 }
 table.third th, table.third td {
-padding: 0.7em;
-vertical-align: top;
+    padding: 0.7em;
+    vertical-align: top;    
 }
-table.third thead tr:first-child { 
-border-top: 2px solid orangered
+table.third thead tr:first-child{    
+    border-top: 2px solid orangered;
+    border-bottom: 2px solid orangered;
 }
-table.third th {
-    background-color: greenyellow;
+table.third thead tr:nth-child(2), table.third tr:last-child {    
+    border-bottom: 2px solid orangered;
 }
-
+/*-----------------------------------------------------------*/
 @media only screen and (max-width: 425px) {
-th, td {
-display: block;
-}
-thead, td.number {
-display: none;
-padding: 0;
-}
+    th, td {
+        display: block;
+    }
+    thead, td.number {
+        display: none;
+        padding: 0;
+    }    
 }
